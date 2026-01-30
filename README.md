@@ -46,13 +46,6 @@ Email format
 
 Empty input fields
 
-📌 Example Data Structure (JSON)
-{
-  "example.com": {
-    "email": "user@example.com",
-    "password": "A9$kLm#12"
-  }
-}
 
 📈 Future Improvements
 
@@ -66,6 +59,6 @@ Cloud or database storage
 
 📄 License
 
-This project is for learning and personal use. Feel free to modify and improve it.
+This project is for learning and personal use.
 
 ✨ Simple. Secure. Practical.
